@@ -1,16 +1,15 @@
-@charset 'utf-8';
-
 body {
   background-color: #EDC;
+  font-family: serif;
 }
 
 .box {
   background-color: #FFF;
   border: 1px solid #CCC;
   box-shadow: 0 0 10px #CCC inset;
-  font-family: serif;
   text-align: center;
   width: 400px;
+  margin: 0 auto;
 }
 
 .box > .box-head {
